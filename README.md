@@ -17,8 +17,10 @@ Unity version >= 2021.3.6f1 LTS
 
 ## Installation
 
-1: Fork the repository from [2D-Platformer](https://github.com/bsoc-bitbyte/2D-Platformer)
-2: Open Command Prompt on your local computer.
+1. Fork the repository from [2D-Platformer](https://github.com/bsoc-bitbyte/2D-Platformer)
+
+2. Open Command Prompt on your local computer.
+
 3. Clone the forked repository by adding your own GitHub username in place of `<username>`
 `git clone https://github.com/<username>/2D-Platformer`
 
