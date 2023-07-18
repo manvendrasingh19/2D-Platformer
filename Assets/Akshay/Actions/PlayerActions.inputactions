@@ -1,5 +1,5 @@
 {
-    "name": "2D-Platformer",
+    "name": "PlayerActions",
     "maps": [
         {
             "name": "Player",
